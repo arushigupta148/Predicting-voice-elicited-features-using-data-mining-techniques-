@@ -1,4 +1,4 @@
-# Voice driven conversational agents using text processing
+# Predicting voice elicited features using data mining techniques
 
 Objective
 The objective of the project is to process user’s audio, to be used for work
